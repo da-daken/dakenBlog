@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dakenBlog/daken-admin/daken-admin.iml" filepath="$PROJECT_DIR$/dakenBlog/daken-admin/daken-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dakenBlog/daken-blog/daken-blog.iml" filepath="$PROJECT_DIR$/dakenBlog/daken-blog/daken-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dakenBlog/daken-framework/daken-framework.iml" filepath="$PROJECT_DIR$/dakenBlog/daken-framework/daken-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dakenBlog/dakenBlog.iml" filepath="$PROJECT_DIR$/dakenBlog/dakenBlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/daken的博客.iml" filepath="$PROJECT_DIR$/.idea/daken的博客.iml" />
+    </modules>
+  </component>
+</project>
